@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e66c764100b821537d3244e57e777052/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/liam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/123840d0eb8e95eea355762c08830e34/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1ca14ebd2f22d6725bb80c3b708cf5d8/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/383bf2c1c411f37ecdc96a07b690bead/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c8ca54ca5de455a3be7f308c95f03c30/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0f3f4b183cb0215a06a5799820081f93/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/32db9e141a8209db6212d718906e1452/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f429d7b9d961a81be9d6f6d63cdd44c0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9c4d1c3030e90a8a76774014d2b8fb84/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a2e3672b5828994b89884342bd0895bd/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/liam/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/48b317f2b528b1f1129ba08998260072/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml
+		INJECTED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml
+		ADDED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml
+		ADDED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e66c764100b821537d3244e57e777052/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e66c764100b821537d3244e57e777052/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/liam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/123840d0eb8e95eea355762c08830e34/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/liam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/123840d0eb8e95eea355762c08830e34/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1ca14ebd2f22d6725bb80c3b708cf5d8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1ca14ebd2f22d6725bb80c3b708cf5d8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/383bf2c1c411f37ecdc96a07b690bead/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/383bf2c1c411f37ecdc96a07b690bead/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c8ca54ca5de455a3be7f308c95f03c30/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c8ca54ca5de455a3be7f308c95f03c30/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0f3f4b183cb0215a06a5799820081f93/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0f3f4b183cb0215a06a5799820081f93/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/32db9e141a8209db6212d718906e1452/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/32db9e141a8209db6212d718906e1452/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f429d7b9d961a81be9d6f6d63cdd44c0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f429d7b9d961a81be9d6f6d63cdd44c0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9c4d1c3030e90a8a76774014d2b8fb84/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9c4d1c3030e90a8a76774014d2b8fb84/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a2e3672b5828994b89884342bd0895bd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a2e3672b5828994b89884342bd0895bd/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/liam/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/48b317f2b528b1f1129ba08998260072/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/liam/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/48b317f2b528b1f1129ba08998260072/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.cryptoapi_test.MainActivity
+ADDED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml
+INJECTED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e66c764100b821537d3244e57e777052/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e66c764100b821537d3244e57e777052/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/liam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/123840d0eb8e95eea355762c08830e34/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/liam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/123840d0eb8e95eea355762c08830e34/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1ca14ebd2f22d6725bb80c3b708cf5d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1ca14ebd2f22d6725bb80c3b708cf5d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/383bf2c1c411f37ecdc96a07b690bead/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/383bf2c1c411f37ecdc96a07b690bead/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c8ca54ca5de455a3be7f308c95f03c30/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c8ca54ca5de455a3be7f308c95f03c30/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0f3f4b183cb0215a06a5799820081f93/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0f3f4b183cb0215a06a5799820081f93/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/32db9e141a8209db6212d718906e1452/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/32db9e141a8209db6212d718906e1452/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f429d7b9d961a81be9d6f6d63cdd44c0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f429d7b9d961a81be9d6f6d63cdd44c0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9c4d1c3030e90a8a76774014d2b8fb84/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9c4d1c3030e90a8a76774014d2b8fb84/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a2e3672b5828994b89884342bd0895bd/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a2e3672b5828994b89884342bd0895bd/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/liam/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/48b317f2b528b1f1129ba08998260072/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/liam/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/48b317f2b528b1f1129ba08998260072/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml
+INJECTED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e66c764100b821537d3244e57e777052/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml
+		ADDED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml
+		INJECTED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml
+		ADDED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml
+		INJECTED from /home/liam/Documents/AS/CryptoAPItest/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e66c764100b821537d3244e57e777052/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1ca14ebd2f22d6725bb80c3b708cf5d8/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1ca14ebd2f22d6725bb80c3b708cf5d8/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/383bf2c1c411f37ecdc96a07b690bead/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/383bf2c1c411f37ecdc96a07b690bead/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c8ca54ca5de455a3be7f308c95f03c30/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c8ca54ca5de455a3be7f308c95f03c30/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0f3f4b183cb0215a06a5799820081f93/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0f3f4b183cb0215a06a5799820081f93/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/32db9e141a8209db6212d718906e1452/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/32db9e141a8209db6212d718906e1452/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f429d7b9d961a81be9d6f6d63cdd44c0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f429d7b9d961a81be9d6f6d63cdd44c0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9c4d1c3030e90a8a76774014d2b8fb84/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9c4d1c3030e90a8a76774014d2b8fb84/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a2e3672b5828994b89884342bd0895bd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a2e3672b5828994b89884342bd0895bd/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e66c764100b821537d3244e57e777052/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/liam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e66c764100b821537d3244e57e777052/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/liam/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/48b317f2b528b1f1129ba08998260072/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/liam/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/48b317f2b528b1f1129ba08998260072/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/liam/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/48b317f2b528b1f1129ba08998260072/AndroidManifest.xml:26:13-58
